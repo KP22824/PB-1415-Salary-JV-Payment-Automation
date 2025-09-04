@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_sjv_sjv_upd_jv_creation">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>[SUL] PTS SJV SJV Upd JV Create</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>F</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/salaryJVUpd&amp;JVCreation.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_sjv_sjv_upd_jv_creation">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>[SUL] PTS SJV SJV Upd JV Create</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

@@ -1,0 +1,25 @@
+<suitelet scriptid="customscriptstatus_page_suitelet">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>status page suitelet map and reduce</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>F</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/map and reduce tasks status page.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_status_page_suitelet">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>status page suitelet map and reduce</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
